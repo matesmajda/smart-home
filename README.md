@@ -6,7 +6,7 @@ I run these modules on my Raspberry Pi 3 and Android phone.
 ## Modules
 
 ### milight-remote
-This is a low level modul that can control my MiLight led-strips. It is a basic reimplementation of the original remote controller of the leds.
+This is a low level module that can control my MiLight led-strips. It is a basic reimplementation of the original remote controller of the leds.
 
 ### speech-recognition
 This module uses a microphone to listen to the environment constantly and trigger events when certain hotwords are detected. For example it can call the `milight-remote` module to turn on the lights when it hears the hotword "turn the lights on"

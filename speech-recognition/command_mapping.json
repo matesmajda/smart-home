@@ -1,0 +1,24 @@
+{
+	"commandMapping": [
+		{
+			"hotword" : "resources/lumos_maxima_woman.pmdl",
+			"command" : "mi-remote -t white -r living-room -b on"
+		},
+		{
+			"hotword" : "resources/lumos_maxima_man.pmdl",
+			"command" : "mi-remote -t white -r living-room -b on"
+		},
+		{
+			"hotword" : "resources/turn_the_lights_off.pmdl",
+			"command" : "mi-remote -t white -r living-room -b off"
+		},
+		{
+			"hotword" : "resources/brightness_up.pmdl",
+			"command" : "mi-remote -t white -r living-room -b brighnessUp"
+		},
+		{
+			"hotword" : "resources/lights_darker.pmdl",
+			"command" : "mi-remote -t white -r living-room -b brighnessDown"
+		}
+	]
+}
